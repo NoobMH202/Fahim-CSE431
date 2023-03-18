@@ -6,10 +6,10 @@ Link to unlisted YouTube video:
 -
 
 Public link to the slide (Anyone on the internet can view without login):
--
+-https://docs.google.com/presentation/d/1xr1wcgqQkzAUTZwU_ge7MnfGpxtNDSEr3nmqeQRfnqo/edit#slide=id.p1
 
 Project title:
-Detecting Potentially Threatening Posts Using NLP and Machine Learning
+A LEXICON OF CRUDE AND IMPROPER TEXT IDENTIFICATION IN BENGALI USING NLP AND MACHINE LEARNING.
 
 Group Number:
 07
