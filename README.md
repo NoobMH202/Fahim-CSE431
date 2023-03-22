@@ -5,7 +5,7 @@ Overleaf link with edit access to ST, RA, and my Gmail.
 Link to unlisted YouTube video:
 
 
-Public link to the slide (Anyone on the internet can view without login):
+Public link to the slide (Anyone on the internet can view without login):https://docs.google.com/presentation/d/1qBQqUYRwhwj-icndM3ZbIMuHlwSDfjdt2DYGEBQ8v_Y/edit?usp=sharing
 
 
 Project title:
